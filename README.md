@@ -7,7 +7,8 @@ currently studying in Software Engineering.
 ## 🔧 Skills 
 
 <div id = 'badges'>
-  <img scr='https://www.arduino.cc/reference/en/' width='20px'>
+  <img src='https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png' width='20px'>
+  <img scr='https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png' width='20px'>
 </div>
 
 ## 📫 Contact
