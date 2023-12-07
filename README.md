@@ -16,7 +16,7 @@ currently studying in Software Engineering.
 ## 📫 Contact
 
 - Email: phantawat.l@ku.th
-- Social media: <a href='https://www.instagram.com/p_organ/'> <img scr="https://i1.wp.com/globalinfusion.org/wp-content/uploads/2018/01/ig-logo-email.png?resize=1024%2C1024&ssl=1"></a>
+- Social media: <a href='https://www.instagram.com/p_organ/'> <img scr="https://i1.wp.com/globalinfusion.org/wp-content/uploads/2018/01/ig-logo-email.png?resize=1024%2C1024&ssl=1" width='50px'></a>
 - Discord: porgann
 
 Feel free to reach out if you have any questions or just want to chat about [project topic] or [related interests]. Happy coding! 🚀
