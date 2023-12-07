@@ -6,9 +6,13 @@ currently studying in Software Engineering.
 
 ## 🔧 Skills 
 
-<div id = 'badges'>
-  <img src='https://logodix.com/logo/470216.png' width='50px'>
+<div id='badges'>
+  <img src='https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png' width='50px'>
+</div>
+<div id='badges'>
   <img scr='https://logos-download.com/wp-content/uploads/2016/09/Arduino_logo.png' width='50px'>
+</div>
+<div id='badges'>
   <img scr='https://logodix.com/logo/470216.png' width='50px'>
 </div>
 
