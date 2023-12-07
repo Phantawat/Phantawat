@@ -7,7 +7,7 @@ currently studying in Software Engineering.
 ## 🔧 Skills 
 
 <div id = 'badges'>
-  <img scr='https://www.arduino.cc/reference/en/' width='20px'
+  <img scr='https://www.arduino.cc/reference/en/' width='20px'>
 </div>
 
 ## 📫 Contact
