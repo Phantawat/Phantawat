@@ -1,41 +1,25 @@
-# Myself 
+# Phantawat Lueangsiriwattana
 
-Hi there! 👋 I'm Phantawat Lueangsiriwattana, 
-currently studying in Software Engineering.
-(waiting for an update)
+Hi there! 👋 I'm Phantawat Lueangsiriwattana, currently studying Software Engineering. Feel free to reach out if you have any questions or just want to chat about projects or related interests. Happy coding! 🚀
 
-## 🔧 Skills 
+## 🔧 Skills
 
 <div id='badges'>
-  <img src='https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png' width='50px'></p>
-  <img src='https://logos-download.com/wp-content/uploads/2016/09/Arduino_logo.png' width='50px'></p>
-  <img src='https://logodix.com/logo/470216.png' width='50px'>
+  <img src='https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png' width='50px' alt='Python Logo'/>
+  <img src='https://logos-download.com/wp-content/uploads/2016/09/Arduino_logo.png' width='50px' alt='Arduino Logo'/>
+  <img src='https://logodix.com/logo/470216.png' width='50px' alt='Django Logo'/>
 </div>
 
+## 📈 Progress
+
+- **Python**: Advanced - Building complex applications and working with frameworks like Django.
+- **Arduino**: Intermediate - Designing and programming microcontroller-based projects.
+- **Django**: Intermediate - Creating and managing web applications with the Django framework.
 
 ## 📫 Contact
 
-- Email: phantawat.l@ku.th
-- Social media: 
-<a href='https://www.instagram.com/p_organ/'>
-  <img align='center' scr="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="porgan" height="30" width="40" style='max_width: 100%;'>
-</a></p>
-- Discord: porgann
-
-Feel free to reach out if you have any questions or just want to chat about [project topic] or [related interests]. Happy coding! 🚀
-
-
-<!--
-**Phantawat/Phantawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Email**:
+  - [phantawat.l@ku.th](mailto:phantawat.l@ku.th)
+- **Social Media**: 
+  - [Instagram](https://www.instagram.com/p_organ/)
+- **Discord**: porgann
