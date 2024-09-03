@@ -1,4 +1,4 @@
-# Phantawat Lueangsiriwattana
+## Phantawat Lueangsiriwattana
 
 Hi there! 👋 I'm Phantawat Lueangsiriwattana, currently studying Software Engineering. Feel free to reach out if you have any questions or just want to chat about projects or related interests. Happy coding! 🚀
 
@@ -16,10 +16,14 @@ Hi there! 👋 I'm Phantawat Lueangsiriwattana, currently studying Software Engi
 - **Arduino**: Intermediate - Designing and programming microcontroller-based projects.
 - **Django**: Intermediate - Creating and managing web applications with the Django framework.
 
+## 📊 Language Usage
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+
 ## 📫 Contact
 
 - **Email**:
   - [phantawat.l@ku.th](mailto:phantawat.l@ku.th)
 - **Social Media**: 
-  - [Instagram](https://www.instagram.com/p_organ/)
+  - [Instagram](https://www.instagram.com/p_organ/) ![Instagram Logo]
 - **Discord**: porgann
