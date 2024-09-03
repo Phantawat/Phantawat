@@ -18,7 +18,7 @@ Hi there! 👋 I'm Phantawat Lueangsiriwattana, currently studying Software Engi
 
 ## 📊 Language Usage
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phantawat)](https://github.com/Phantawat/github-readme-stats)
+![Phantawat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phantawat&show_icons=true&theme=radical)
 
 ## 📫 Contact
 
