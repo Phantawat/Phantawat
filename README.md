@@ -25,5 +25,5 @@ Hi there! 👋 I'm Phantawat Lueangsiriwattana, currently studying Software Engi
 - **Email**:
   - [phantawat.l@ku.th](mailto:phantawat.l@ku.th)
 - **Social Media**: 
-  - [Instagram](https://www.instagram.com/p_organ/)
+  - [p_organ](https://www.instagram.com/p_organ/)
 - **Discord**: porgann
