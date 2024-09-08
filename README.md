@@ -1,6 +1,6 @@
 ## About Me
 
-Hi there! 👋 I'm `Phantawat Lueangsiriwattana`, currently studying Software and Knowledge Engineering at Kasetsart University, Bangkok, Thailand. You can call me `Organ`. Feel free to reach out if you have any questions or just want to chat about projects or related interests. Happy coding! 🚀
+Hi there! 👋 I'm `Phantawat Lueangsiriwattana`, currently studying Software and Knowledge Engineering at Kasetsart University, Bangkok, Thailand. You can call me `Organ`. Love to play football Feel free to reach out if you have any questions or just want to chat about projects or related interests. Happy coding! 🚀
 
 ## 💻 Tech Stack:
 
@@ -28,3 +28,5 @@ Hi there! 👋 I'm `Phantawat Lueangsiriwattana`, currently studying Software an
   - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/p_organ) 
 - **Discord**: porgann
   - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/porgann)
+
+>> A Liverpool supporte, love to play football.
