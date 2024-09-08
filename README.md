@@ -29,4 +29,4 @@ Hi there! 👋 I'm `Phantawat Lueangsiriwattana`, currently studying Software an
 - **Discord**: porgann
   - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/porgann)
 
->> A Liverpool supporte, love to play football.
+>> A Liverpool supporter, love to play football.
