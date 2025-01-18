@@ -20,6 +20,7 @@ Hi there! 👋 I'm `Phantawat Lueangsiriwattana`, currently studying Software an
  
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-%2300C7B7.svg?style=for-the-badge&logo=celery&logoColor=white) 
 
 ### 🗄️ Databases:
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -29,7 +30,6 @@ Hi there! 👋 I'm `Phantawat Lueangsiriwattana`, currently studying Software an
 
 ### 🛠️ DevOps & Technologies:
 ![AWS S3](https://img.shields.io/badge/AWS_S3-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Celery](https://img.shields.io/badge/Celery-%2300C7B7.svg?style=for-the-badge&logo=celery&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-%23EF394E.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)
