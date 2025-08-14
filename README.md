@@ -1,6 +1,6 @@
 # Phantawat Lueangsiriwattana (Organ)
 
-## 👨‍💻 Software Engineer | Knowledge Engineering Student
+## 👨‍💻 Software & Knowledge Engineering Student
 
 Hello there! I'm a Software and Knowledge Engineering student at Kasetsart University, Bangkok, Thailand. 
 Passionate about building scalable applications and exploring new technologies.
@@ -23,7 +23,6 @@ Passionate about building scalable applications and exploring new technologies.
 ![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
