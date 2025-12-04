@@ -12,7 +12,7 @@ I enjoy learning new technologies, exploring system design, and improving myself
 
 ## 📫 Connect with me
 
-[![Email](https://img.shields.io/badge/Email-phantawat.l%40ku.th-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:phantawat.l@ku.th)
+[![Email](https://img.shields.io/badge/Email-phantawat.lu%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:phantawat.lu@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Phantawat_Lueangsiriwattana-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phantawat-lueangsiriwattana-a72939322/)
 [![Instagram](https://img.shields.io/badge/Instagram-p__organ-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/p_organ)
 [![Discord](https://img.shields.io/badge/Discord-porgann-7289DA?style=flat-square&logo=discord&logoColor=white)]()
