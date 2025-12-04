@@ -1,75 +1,112 @@
-# Phantawat Lueangsiriwattana (Organ)
+# 👋 Hi, I'm Phantawat Lueangsiriwattana (Organ)
 
-## 👨‍💻 Software & Knowledge Engineering Student
+## 👨‍💻 Software & Knowledge Engineering Student | Backend & Full-Stack Developer  
+Kasetsart University, Bangkok
 
-Hello there! I'm a Software and Knowledge Engineering student at Kasetsart University, Bangkok, Thailand. 
-Passionate about building scalable applications and exploring new technologies.
+I’m a passionate software engineering student who loves building real systems that solve real problems.  
+My work focuses on **backend architecture**, **RESTful API design**, **full-stack development**, and **clean system workflows**.
+
+I enjoy learning new technologies, exploring system design, and improving myself through hands-on projects.
+
+---
+
+## 📫 Connect with me
 
 [![Email](https://img.shields.io/badge/Email-phantawat.l%40ku.th-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:phantawat.l@ku.th)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Phantawat_Lueangsiriwattana-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phantawat-lueangsiriwattana-a72939322/)
 [![Instagram](https://img.shields.io/badge/Instagram-p__organ-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/p_organ)
-[![Discord](https://img.shields.io/badge/Discord-porgann-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/porgann)
+[![Discord](https://img.shields.io/badge/Discord-porgann-7289DA?style=flat-square&logo=discord&logoColor=white)]()
+
+---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### **Languages**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Frontend
+### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend
+### **Backend**
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
-### Data & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-### Databases
+### **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### DevOps & Cloud
+### **DevOps & Cloud**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+
+---
 
 ## 🌱 Current Focus
 
 ```
-▓▓▓▓▓▓▓▓▓▓▓▓▓░░░  Go         - Building microservices and exploring concurrency patterns
-▓▓▓▓▓▓▓▓▓▓░░░░░░  React      - Developing reusable components and state management
-▓▓▓▓▓▓▓▓░░░░░░░░  FastAPI    - Building high-performance APIs
-▓▓▓▓▓▓░░░░░░░░░░  Java       - Object-oriented design principles and patterns
-▓▓▓░░░░░░░░░░░░░  Assembly   - Understanding low-level system operations
+
+▓▓▓▓▓▓▓▓▓▓▓▓▒░░   Go         – Microservices, concurrency patterns
+▓▓▓▓▓▓▓▓▓▒░░░░░   React      – Reusable components, UI logic
+▓▓▓▓▓▓▓▒░░░░░░░   FastAPI    – High-performance API design
+▓▓▓▓▓▒░░░░░░░░░   Java       – OOP, patterns, backend fundamentals
+▓▓▓▒░░░░░░░░░░░   TypeScript – Clean full-stack development
+
 ```
+
+---
+
+## 🔭 Featured Projects
+
+### 🚀 **KU Connect – Job Platform (Backend Lead)**
+- Built 60+ RESTful APIs using Express.js + Prisma  
+- Implemented OAuth + JWT authentication  
+- Designed database schema, workflows, and SRS documentation  
+- Full backend system for job postings, filtering, applications  
+
+### 📘 **EventEase – Event Reservation System**
+- Backend with Django Ninja + PostgreSQL  
+- Integrated AWS S3, Celery tasks, and background processing  
+- High test coverage and improved database performance  
+
+### 🌤️ **BreatheEasy – Air Quality Forecasting (IoT + ML)**
+- FastAPI backend, React dashboard  
+- ML model (XGBoost) for pollutant forecasting  
+- Clean data pipeline + UI visualization  
+
+### 🏫 **KU CPE Jobfair Website (Next.js)**
+- Built a real event website used by 100+ students  
+- Dynamic search bar + auto-matching for company & job names  
+- Filtering system for job types and categories  
+- Fully deployed on Vercel  
+
+---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Phantawat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phantawat&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Phantawat&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Phantawat&layout=compact&theme=tokyonight"/>
 </p>
 
-## 🔭 Projects
-
-*Coming soon! Working on documenting my key projects.*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
 
 ---
 
-⚽ Liverpool supporter and football enthusiast
+⚽ Liverpool supporter & football enthusiast  
